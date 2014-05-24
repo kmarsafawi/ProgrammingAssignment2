@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Matrix inversion is usually a costly computation and their may be some benefit
+## to caching the inverse of a matrix rather than compute it repeatedly.
+
 
 ## populates the setter and getter fot the matrix passed
 
